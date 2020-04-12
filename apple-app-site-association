@@ -4,7 +4,6 @@
         "details": [{
             "appID": "SSXVTZV52J.ru.daoffice.ios",
             "paths": [
-                "UserItems/*"
                 "/UserItems/*"                
             ]
         }]
