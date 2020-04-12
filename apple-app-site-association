@@ -7,7 +7,7 @@
                 "/UserItems/Details/*", "/*UserItems/Details/*",
                 "/CustomForm/*", "/*CustomForm/*",
                 "/Note/*", "/*Note/*",
-                "/*People/*",
+                "/People/*", "/*People/*",
                 "/Groups/*", "/*Groups/*",
                 "/PrivateMessages*", "/*PrivateMessages*",
             ]
