@@ -15,7 +15,7 @@
             "appID": "SSXVTZV52J.ru.daoffice.messenger",
             "paths": [
                 "/PrivateMessages*", "/*PrivateMessages*",
-            ]}
+            ]},
 
             {
             "appID": "SSXVTZV52J.ru.marka.ios",
@@ -30,7 +30,7 @@
             "appID": "SSXVTZV52J.ru.marka.messenger",
             "paths": [
                 "/PrivateMessages*", "/*PrivateMessages*",
-            ]}
+            ]},
 
             {
             "appID": "SSXVTZV52J.ru.team.ios",
