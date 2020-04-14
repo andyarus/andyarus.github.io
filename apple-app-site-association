@@ -3,7 +3,7 @@
         "apps": [],
         "details": [
             {
-            "appIDs": [ "SSXVTZV52J.ru.daoffice.ios", "SSXVTZV52J.ru.marka.ios", "SSXVTZV52J.ru.team.ios" ],
+            "appID": "SSXVTZV52J.ru.daoffice.ios",
             "paths": [
                 "/UserItems/Details/*", "/*UserItems/Details/*",
                 "/CustomForm/*", "/*CustomForm/*",
@@ -12,10 +12,41 @@
                 "/Groups/*", "/*Groups/*",
             ]},
             {
-            "appIDs": [ "SSXVTZV52J.ru.daoffice.messenger", "SSXVTZV52J.ru.marka.messenger", "SSXVTZV52J.ru.team.messenger" ],
+            "appID": "SSXVTZV52J.ru.daoffice.messenger",
             "paths": [
                 "/PrivateMessages*", "/*PrivateMessages*",
-            ]}        
+            ]},
+
+            {
+            "appID": "SSXVTZV52J.ru.marka.ios",
+            "paths": [
+                "/UserItems/Details/*", "/*UserItems/Details/*",
+                "/CustomForm/*", "/*CustomForm/*",
+                "/Note/*", "/*Note/*",
+                "/People/*", "/*People/*",
+                "/Groups/*", "/*Groups/*",
+            ]},
+            {
+            "appID": "SSXVTZV52J.ru.marka.messenger",
+            "paths": [
+                "/PrivateMessages*", "/*PrivateMessages*",
+            ]},
+
+            {
+            "appID": "SSXVTZV52J.ru.team.ios",
+            "paths": [
+                "/UserItems/Details/*", "/*UserItems/Details/*",
+                "/CustomForm/*", "/*CustomForm/*",
+                "/Note/*", "/*Note/*",
+                "/People/*", "/*People/*",
+                "/Groups/*", "/*Groups/*",
+            ]},
+            {
+            "appID": "SSXVTZV52J.ru.team.messenger",
+            "paths": [
+                "/PrivateMessages*", "/*PrivateMessages*",
+            ]}
+        
         ]
     }
 }
