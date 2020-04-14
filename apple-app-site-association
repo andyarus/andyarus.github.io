@@ -15,38 +15,7 @@
             "appID": "SSXVTZV52J.ru.daoffice.messenger",
             "paths": [
                 "/PrivateMessages*", "/*PrivateMessages*",
-            ]}
-
-            {
-            "appID": "SSXVTZV52J.ru.marka.ios",
-            "paths": [
-                "/UserItems/Details/*", "/*UserItems/Details/*",
-                "/CustomForm/*", "/*CustomForm/*",
-                "/Note/*", "/*Note/*",
-                "/People/*", "/*People/*",
-                "/Groups/*", "/*Groups/*",
-            ]},
-            {
-            "appID": "SSXVTZV52J.ru.marka.messenger",
-            "paths": [
-                "/PrivateMessages*", "/*PrivateMessages*",
-            ]}
-
-            {
-            "appID": "SSXVTZV52J.ru.team.ios",
-            "paths": [
-                "/UserItems/Details/*", "/*UserItems/Details/*",
-                "/CustomForm/*", "/*CustomForm/*",
-                "/Note/*", "/*Note/*",
-                "/People/*", "/*People/*",
-                "/Groups/*", "/*Groups/*",
-            ]},
-            {
-            "appID": "SSXVTZV52J.ru.team.messenger",
-            "paths": [
-                "/PrivateMessages*", "/*PrivateMessages*",
-            ]}
-        
+            ]}        
         ]
     }
 }
